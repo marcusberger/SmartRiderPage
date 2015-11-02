@@ -28,8 +28,9 @@ body {
 }
 
 .image-bg-fixed-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+	background: url('http://www.transparenttextures.com/patterns/skulls.png');
     height: 450px;
+    background-color: #30272a;
 }
 
 .img-center {
